@@ -1,0 +1,57 @@
+# ONE OK ROCK – Make It Out Alive
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Run away, run away, run away
+You don’t know who to run from
+Nowhere to go,
+don’t wanna go, nowhere to go
+No road is left to run on
+I was born,I was born with horns
+Demons couldn’t shake me up
+Bring it on,
+bring it on,bring it on
+‘Cause we haven’t had enough
+Won’t give up the fight
+Make it out alive
+Set this world on fire now
+Wow (wow) wow (wow)
+Don’t give up,
+it’s gonna be alright
+Cause I won’t let you burn out
+Wow (wow) wow (wow)
+We gotta make it out alive
+Tonight, tonight, tonight
+I’m screaming on the inside
+I was trying to hide,
+trying to hide, trying to hide
+Not ready for this ride
+Gotta face,
+gotta face the unknown
+It’s the only way to live
+I’m ready to go,
+ready to go, ready to go
+Somewhere I’ve never been
+Won’t give up the fight
+Make it out alive
+Set this world on fire now
+Wow (wow) wow (wow)
+Don’t give up,
+it’s gonna be alright
+Cause I won’t let you burn out
+Wow (wow) wow (wow)
+We gotta make it out alive
+Make it out alive
+Set this world on fire now
+Wow (wow) wow (wow)
+Don’t give up,
+it’s gonna be alright
+Cause I won’t let you burn out
+Wow (wow) wow (wow)
+We gotta make it out alive
+Wow, oh yeah, oh yeah
+We gotta make it out alive
+Wow, oh yeah, oh yeah
+We gotta make it out alive
+```
