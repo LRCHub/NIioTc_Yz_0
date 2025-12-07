@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Make It Out Alive",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-07T05:47:57.940741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Nao",
+      "has_synced": true,
+      "path": "select/01_Make_It_Out_Alive_Nao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "QuESt",
+      "has_synced": true,
+      "path": "select/02_Make_It_Out_Alive_QuESt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Rancid",
+      "has_synced": false,
+      "path": "select/03_Make_It_Out_Alive_Rancid.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Trapt",
+      "has_synced": true,
+      "path": "select/04_Make_It_Out_Alive_Trapt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "NerdOut",
+      "has_synced": false,
+      "path": "select/05_Make_It_Out_Alive_NerdOut.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "NAO, SiR",
+      "has_synced": true,
+      "path": "select/06_Make_It_Out_Alive_NAO,_SiR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Statik Selektah",
+      "has_synced": false,
+      "path": "select/07_Make_It_Out_Alive_Statik_Selektah.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Years",
+      "has_synced": true,
+      "path": "select/08_Make_It_Out_Alive_Years.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/09_Make_It_Out_Alive_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Years & Years",
+      "has_synced": false,
+      "path": "select/10_Make_It_Out_Alive_Years_&_Years.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Angus & Julia Stone",
+      "has_synced": true,
+      "path": "select/11_Make_It_Out_Alive_Angus_&_Julia_Stone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "McFly",
+      "has_synced": true,
+      "path": "select/12_Make_It_Out_Alive_McFly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Hanson",
+      "has_synced": true,
+      "path": "select/13_Make_It_Out_Alive_Hanson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Make It Out Alive (feat. SiR)",
+      "artist": "Nao",
+      "has_synced": true,
+      "path": "select/14_Make_It_Out_Alive_(feat._SiR)_Nao.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Tanner Usrey",
+      "has_synced": false,
+      "path": "select/15_Make_It_Out_Alive_Tanner_Usrey.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "NAO feat. SiR",
+      "has_synced": true,
+      "path": "select/16_Make_It_Out_Alive_NAO_feat._SiR.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Assuming We Survive",
+      "has_synced": true,
+      "path": "select/17_Make_It_Out_Alive_Assuming_We_Survive.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Make It Out Alive",
+      "artist": "Trapt",
+      "has_synced": true,
+      "path": "select/18_Make_It_Out_Alive_Trapt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAKE IT OUT ALIVE",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_MAKE_IT_OUT_ALIVE_ONE_OK_ROCK.txt"
+    }
+  ]
+}
